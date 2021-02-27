@@ -3,10 +3,10 @@ Do Read This Before Proceeding :-
 Clone the OTA repo in your ROM directory.
 To generate json and push ota,
 ```bash
-bash OTA/support/ota.sh <device_codename> <rom_folder> <maintainer_name> <maintainer_url> <forum_url>
+bash OTA/support/ota.sh <device_codename> <rom_folder> <maintainer_tgusername> <maintainer_url> <forum_url>
 
 e.g
-bash OTA/support/ota.sh dumpling Nezuko "Maitreya Patni" https://t.me/Maitreya29 https://forum.xda-developers.com/
+bash OTA/support/ota.sh dumpling Nezuko "Maitreya29" https://t.me/Maitreya29 https://forum.xda-developers.com/
 ```
 NOTES:
 - ROM directory will look for *home/<os_username>/<rom_folder>*.

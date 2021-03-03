@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": NEZUKO_dumpling-11.0-20210303-0934-STABLE-OFFICIAL.zip,
-"datetime": 1614764040,
-"size":1707407266, 
-"url":"https://sourceforge.net/projects/nezukoos/files/dumpling/NEZUKO_dumpling-11.0-20210303-0934-STABLE-OFFICIAL.zip/download", 
-"filehash":"c7cdb5a1670efd8ccb041d579f295770", 
+"filename": NEZUKO_dumpling-11.0-20210303-1301-STABLE-OFFICIAL.zip,
+"datetime": 1614776460,
+"size":1707685088, 
+"url":"https://sourceforge.net/projects/nezukoos/files/dumpling/NEZUKO_dumpling-11.0-20210303-1301-STABLE-OFFICIAL.zip/download", 
+"filehash":"3d81038f1cfb8d1075393ccc9a1ac75f", 
 "version": "11", 
-"id": "c7cdb5a1670efd8ccb041d579f295770",
+"id": "3d81038f1cfb8d1075393ccc9a1ac75f",
 "donate_url": "https://nezukoos.github.io/Website/donations.html",
 "website_url":"https://nezukoos.github.io/Website",
 "news_url":"https:\/\/t.me\/NezukoOSUpdates",
 "maintainer":"Maitreya29",
 "maintainer_url":"https://t.me/Maitreya29",
-"forum_url":"https://forum.xda-developers.com/t/11-official-nezukoos.4231391/"
+"forum_url":"https://forum.xda-developers.com/"
 }

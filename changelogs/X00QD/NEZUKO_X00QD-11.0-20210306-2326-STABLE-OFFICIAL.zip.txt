@@ -1,0 +1,3 @@
+2021/03/07
+
+Fixed Audio playback on videos.

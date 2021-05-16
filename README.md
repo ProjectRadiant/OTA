@@ -10,5 +10,5 @@ bash OTA/support/ota.sh dumpling Nezuko "Maitreya29" https://t.me/Maitreya29 NEZ
 ```
 NOTES:
 - ROM directory will look for *home/<os_username>/<rom_folder>*.
-- Add doble quotes for parameters with more than a single word, like maintainer name in the example above.
+- Add double quotes for parameters with more than a single word, like maintainer name in the example above.
 - All parameters are mandatory.
